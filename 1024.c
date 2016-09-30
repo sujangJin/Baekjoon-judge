@@ -14,7 +14,7 @@ int main()
 		return;
 	}
 	while (input_cnt <= 100){
-		if (input_cnt % 2 == 0) // Even number
+		if (input_cnt % 2 == 0) // Even number, commit test
 		{
 			res_start = (input_sum / input_cnt) - (input_cnt / 2 - 1);
 			tmp_sum = res_start * input_cnt + (input_cnt * (input_cnt - 1) / 2);
