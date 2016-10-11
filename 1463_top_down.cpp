@@ -1,4 +1,4 @@
-// this code was written following URL
+// this code was written by following URL
 // URL : http://blog.naver.com/PostView.nhn?blogId=kks227&logNo=220777103650&parentCategoryNo=&categoryNo=299&viewDate=&isShowPopularPosts=false&from=postList
 // 'TOP-DOWN' method of Dynamic Programming 
 
