@@ -5,7 +5,7 @@ using namespace std;
 
 int N;
 int R[1001], G[1001], B[1001];
-int x, y, z, A[1001][3];
+int A[1001][3];
 
 int main()
 {
